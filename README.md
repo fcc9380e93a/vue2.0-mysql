@@ -15,6 +15,7 @@ node api
 运行项目
 
 ``` bash
+#cd 到项目目录
 npm install
 
 npm run dev
@@ -22,7 +23,9 @@ npm run dev
 
 使用了以下技术
 
-vue<br>
+vue2.0<br>
 vuex<br>
 vue-router<br>
 express<br>
+mysql<br>
+node<br>
